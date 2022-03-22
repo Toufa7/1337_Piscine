@@ -1,0 +1,5 @@
+Credentials cache: API:6A1C95C8-88B8-43F2-B4E1-42176D7F24F8
+        Principal: otoufah@1337.MA
+
+  Issued                Expires               Principal
+Sep 21 18:07:32 2021  Sep 28 18:07:32 2021  krbtgt/1337.MA@1337.MA
